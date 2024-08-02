@@ -3,8 +3,8 @@
 
 This project focuses on the quantitative analysis of stock volatility within the S&P 500 index. Specifically, it analyzes two distinct groups of stocks:  
 
-1. **Riskiest Stocks**: The top 10 stocks with the highest volatility, including: 'PCLN', 'AMZN', 'GOOGL', 'GOOG', 'MTD', 'AZO', 'CMG', 'EQIX', 'REGN', 'CHTR'.  
-2. **Safest Stocks**: The top 10 stocks with the lowest volatility, including: 'AES', 'PBCT', 'NWS', 'WU', 'F', 'HBAN', 'NWSA', 'HST', 'KO', 'CA'.  
+- **Riskiest Stocks**: The top 10 stocks with the highest volatility, including: 'PCLN', 'AMZN', 'GOOGL', 'GOOG', 'MTD', 'AZO', 'CMG', 'EQIX', 'REGN', 'CHTR'.  
+- **Safest Stocks**: The top 10 stocks with the lowest volatility, including: 'AES', 'PBCT', 'NWS', 'WU', 'F', 'HBAN', 'NWSA', 'HST', 'KO', 'CA'.  
 
 The analysis includes a comprehensive examination of descriptive statistics, stock trends, correlation analysis, and comparative analysis of daily returns and Sharpe ratios.  
 
