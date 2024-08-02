@@ -10,7 +10,7 @@ The analysis includes a comprehensive examination of descriptive statistics, sto
 
 ### Project Components  
 
-- **Data Collection**: Collected data for S&P 500 stocks, including key metrics such as date, close price, high, open, low, and stock names.  
+- **Data Collection**: Data collected on Kaggle: [Link](https://www.kaggle.com/datasets/camnugent/sandp500), including key metrics such as date, close price, high, open, low, volume and stock names.  
 - **Volatility Analysis**: Identified and segmented stocks into two groups based on their volatility:  
   - **Riskiest Stocks**: Stocks with the highest volatility.  
   - **Safest Stocks**: Stocks with the lowest volatility.  
